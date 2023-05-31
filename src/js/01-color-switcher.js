@@ -43,3 +43,4 @@ function onBtnStopClick() {
     refs.btnStart.classList.remove('disabled');
   }
 }
+/*commit*/
